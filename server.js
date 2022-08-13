@@ -59,4 +59,4 @@ const host = "localhost";
 
 server.listen(port, host, () => {
    console.log(`Server berjalan pada http://${host}:${port}`);
-})
+});
